@@ -1,0 +1,11 @@
+name: hello-world
+version: "1.0.0"
+entry_point: main
+description: A example plugin that adds a /hello endpoint, overrides a prompt and provides an MCP tool
+author: Christian Nonis
+brainapi_version: ">=2.9.0"
+tags:
+  - examples
+priority: 100
+pip_dependencies:
+  - humanize

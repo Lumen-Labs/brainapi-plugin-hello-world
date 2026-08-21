@@ -91,7 +91,7 @@ Pushes to `main` pack this directory into a `.tar.gz` and upload it to `https://
 
 ## License
 
-Business Source License 1.1. See [LICENSE](LICENSE).
+Apache License, Version 2.0. See [LICENSE](LICENSE).
 
 ## Related
 
